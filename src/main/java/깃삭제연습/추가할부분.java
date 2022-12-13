@@ -8,5 +8,7 @@ public class 추가할부분 {
         System.out.println("aa");
         System.out.println("커밋만하기");
         System.out.println("커밋 삭제용");
+        System.out.println("a");
+        System.out.println("b");
     }
 }
