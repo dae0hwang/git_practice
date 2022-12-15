@@ -7,6 +7,7 @@ public class 추가할부분 {
         System.out.println("추가할부분커밋안하고.");
         System.out.println("aa");
         System.out.println("커밋만하기");
+        System.out.println("요부분을 브랜치에적용!!!!!!!!!!!!");
         System.out.println("커밋 삭제용");
         System.out.println("a");
         System.out.println("b");
